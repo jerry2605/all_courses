@@ -1,11 +1,10 @@
-#Download Full List from NetAppU ILT Course Materials
+# Download Full List from NetAppU ILT Course Materials
 
-The script source is from
-<https://netapp.sharepoint.com/sites/NetAppU/CPD/ILT/Lists/ReleasedProducts1/Course%20and%20Kit.aspx>
-
+The source is from
+<https://netapp.sharepoint.com/sites/NetAppU/CPD/ILT/Lists/ReleasedProducts1/Course%20and%20Kit.aspx>  
 It will download the whole list with all the properties. 
 
-Replace your Domain_ID, domain_password and Path
+Replace your *Domain_ID*, *domain_password* and *Path*
 
 The script will create a CSV file and an HTML file which contents are the same.
 

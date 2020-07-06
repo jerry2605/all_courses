@@ -2,6 +2,7 @@
 
 The script source is from
 <https://netapp.sharepoint.com/sites/NetAppU/CPD/ILT/Lists/ReleasedProducts1/Course%20and%20Kit.aspx>
+
 It will download the whole list with all the properties. 
 
 Replace your Domain_ID, domain_password and Path
